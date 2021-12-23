@@ -1,4 +1,4 @@
-# crypto_rate_of_growth.py
+# Crypto Rate of Growth
 Calculates and compares RoG's based on user input
 
 Uses streamlit.io as a user interface to run program \
